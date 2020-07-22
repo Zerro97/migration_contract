@@ -16,7 +16,7 @@ from sympy import symbols, Eq, solve
 ## Solving for two-period model without migration
 
 # Initializing variables
-s_a = 11
+#s_a = 11
 s_w = 11
 s_h = 11
 alpha = np.linspace(0, 1, s_a)
